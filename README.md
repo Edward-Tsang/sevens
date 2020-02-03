@@ -1,0 +1,2 @@
+# sevens
+Java Sevens cardgame
